@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247138816517",
+    "firebase_url": "https://changecontact-6eeb3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "changecontact-6eeb3",
+    "storage_bucket": "changecontact-6eeb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247138816517:android:3126df280255987677826c",
+        "android_client_info": {
+          "package_name": "com.example.chengecontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247138816517-kgmvbmnf2pl32avk7vi1m791bviq3jc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1xfIY1bl2vEcj58LBpvXzX0nUmm6aBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247138816517-kgmvbmnf2pl32avk7vi1m791bviq3jc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
